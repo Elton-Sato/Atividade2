@@ -1,0 +1,44 @@
+body{
+	margin: 20px 20px;
+	background-color: lightblue;
+	font-family: arial;
+	text-align: center;
+}
+
+button{
+	margin: 20px 20px;
+}
+
+#integrantes{
+	margin: 20px 20px;
+}
+
+#funcao{
+	background-color: lightgreen;
+	margin: 20px 20px;
+}
+
+ul{
+	list-style-position: inside;
+	text-align: left;
+	padding: 5px 40%;
+}
+
+header{
+	font-family: impact;
+	font-size: 20px;
+}
+
+
+img{
+	height: 150px;
+	width: 150px;
+	border-radius: 75px;
+
+}
+
+table, th, td{
+	margin: 0 auto;
+	text-align: center;
+	border: 1px solid black;
+}
